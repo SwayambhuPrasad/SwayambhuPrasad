@@ -1,24 +1,14 @@
-I am Swayambhu Front End developer.
---------------------------
-- 👀 I’m interested in Front End and Fullstack Development
-- 💞️ I’m looking to collaborate on problem solving
-- 📫 How to reach me www.linkedin.com/in/swayambhupanda and swayambhuprasadpanda@gmail.com
-
-<!---
-SwayambhuPrasad/SwayambhuPrasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stefan Topalovic
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swayambhu Panda
 ========================================================================================================================================
 
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Belgrade, Serbia
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
+*   🌍  I'm based in Bangalore, India
 *   🧠  Currently learning TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
+*   👀 I’m interested in Front End and Fullstack Development
+*   📫 You can reach me www.linkedin.com/in/swayambhupanda and swayambhuprasadpanda@gmail.com
 
 ### Skills
 
