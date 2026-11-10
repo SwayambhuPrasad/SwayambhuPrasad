@@ -25,19 +25,6 @@ Six years of experience building high-throughput backend systems in Go and Postg
 <p align="left">
 <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,react,nextjs,postgres,redis,elasticsearch,aws,dynamodb,docker,kubernetes,git" alt="Skills" />
 </p>
-
-### What I've worked on
-
-*   **Performance:** cut average latency of a 500ms core service by 84% and database load by 85% with Postgres query/index optimization and a Redis cache (92% hit rate).
-*   **Distributed systems:** Redis-based distributed locking for exclusive slot booking, and an asynchronous SQS-driven booking release with idempotent consumers and a dead-letter queue.
-*   **Search:** Elasticsearch-powered full-text, fuzzy and filtered search with 150ms p95 latency.
-*   **Front end:** React component libraries (compound components, Storybook) adopted across 8 teams, and a CRA to Next.js migration (SSR/SSG) that improved SEO traffic by 70%.
-*   **Engineering practice:** CI quality gates that reduced deployment failures by 90%, and a weekly on-call rotation in a 6-engineer team.
-
-### Project
-
-**Recall** – a retrieval-augmented generation service with hybrid retrieval (BM25 + vector search in Elasticsearch) and a cross-encoder reranker, returning answers with source citations over a multi-document corpus. <!-- TODO: add repo link -->
-
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/swayambhupanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;
